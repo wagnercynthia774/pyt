@@ -1,0 +1,4 @@
+# Useful commands
+
+git clone https://github.com/anacrolix/torrent
+go install github.com/anacrolix/torrent/cmd/...@latest
